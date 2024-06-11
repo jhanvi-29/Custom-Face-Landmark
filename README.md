@@ -1,6 +1,6 @@
 # Custom Face Landmark Detection
 
-This repository contains code and resources for detecting custom facial landmarks using deep learning models.
+This repository contains code and resources for detecting custom facial landmarks using deep learning models. Using this we can successfully implement any facial filters like snapchat, can assist in driver monitoring bt pupil tracking and much more.
 
 ## Contents
 
